@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25595
     wikipedia: http://en.wikipedia.org/wiki/Charles_Carleton_Coffin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44072#The-Seat-of-Empire
 gutenberg_issued: '2013-10-30'
 gutenberg_type: Text
 identifiers:

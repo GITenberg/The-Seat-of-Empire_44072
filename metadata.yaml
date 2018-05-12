@@ -1,0 +1,31 @@
+_repo: The-Seat-of-Empire_44072
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44072-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coffin, Charles Carleton
+    alias: Coffin, Charles C. (Charles Carleton)
+    birthdate: 1823
+    deathdate: 1896
+    gutenberg_agent_id: '25595'
+    url: http://www.gutenberg.org/2009/agents/25595
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Carleton_Coffin
+description: ''
+gutenberg_issued: '2013-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Northwestern States'
+- !lcsh 'Northwest, Canadian'
+- !lcsh 'Minnesota -- Description and travel'
+- !lcsh 'Red River of the North'
+title: The Seat of Empire
+url: http://www.gutenberg.org/ebooks/44072
